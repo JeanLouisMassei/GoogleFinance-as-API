@@ -1,6 +1,6 @@
 # GoogleFinance-as-API
 
-Who said Google Finance API was deprecated ? ;). 
+Who said Google Finance API was deprecated ? ;)   
 It is still possible to call Google Services like an API using this setup.
 
 How ?   
@@ -12,11 +12,11 @@ How ?
 
 Output will be a json array :  
 <ul>
-<li>foo
+<li>[
 <ul>
-<li>bar
+<li>{
 <ul>
-<li>baz</li>
+<li>open</li>
 </ul>
 </li>
 </ul>
