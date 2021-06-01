@@ -11,13 +11,14 @@ How ?
 - Get your web app url and paste into into your index.php. 
 
 Output will be a json array :  
-[   
-  {  
-    open  
-    high  
-    low  
-    close  
-    volume  
-  },   
-  ...   
-]      
+<ul>
+<li>foo
+<ul>
+<li>bar
+<ul>
+<li>baz</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
