@@ -14,13 +14,15 @@ Output will be a json array :
 
 ```
 [
-  { 
+  [ 
     open
     high
     low
     close (current for [O])
     volume
-  },
-  ...
+  ],
+  [
+    ...
+  ]
 ]
 ```
