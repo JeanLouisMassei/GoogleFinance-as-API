@@ -13,7 +13,7 @@ How ?
   + B2 : GOOGLEFINANCE("EPA:"&A2;"priceopen")
   + C2 : GOOGLEFINANCE("EPA:"&A2;"high")
   + D2 : GOOGLEFINANCE("EPA:"&A2;"low")
-  + E2 : OOGLEFINANCE("EPA:"&A2;"price")
+  + E2 : GOOGLEFINANCE("EPA:"&A2;"price")
   + F2 : GOOGLEFINANCE("EPA:"&A2;"volume")
 - Create a web app using google scripts and paste script.gs content. 
 - Copy your web app url and paste it into your index.php. 
