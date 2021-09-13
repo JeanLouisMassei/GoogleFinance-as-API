@@ -21,6 +21,7 @@ How ?
 Output will be a json array :  
 
 ```
+(from oldest to newest)
 [
   [ 
     open
